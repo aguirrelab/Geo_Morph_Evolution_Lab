@@ -6,8 +6,11 @@ The repository includes a lab protocol, a tps data file with 16 landmarks digiti
 The included files are:
 
 -0_Lab_6_Geo_Morph_students.doc - This is the lab protocol in Word format. It starts with a brief introduction and then guides the students through using MorphoJ to conduct a PCA and CVA.
+
 -0_stickleback_evol_lab_data.TPS - This is the input data file for MorphoJ in TPS format. It includes landmark data for 90 stickleback fish.
+
 -grp_b.txt - This is the classifiers file indicating specimen group membership for MorphoJ.
+
 -There are also 6 folders with the specimen pictures and individual tps files. This allows you to have students collect their own data or take other measures. However, the input file listed above (0_stickleback_evol_lab_data.TPS) already has all the landmark data and the lab is currently designed for students to work with landmark data that has been collected for them. In class, I demonstrate how to create the input files using TPSUtility and digitize landmarks on the images using TPSDig2. 
 
 
