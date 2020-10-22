@@ -1,7 +1,7 @@
 # Geo_Morph_Evolution_Lab
 This is a repository for a Sophomore level evolution lab on Geometric Morphometrics using MorphoJ that I teach at DePaul University. The lab uses images of 90 stickleback fish from three populations collected in the Kenai Peninsula of Alaska. The three populations are an anadromous population from Anchor River (AR), a benthic lake population from Tern Lake, and a limnetic lake population from Stormy Lake. Each population consists of 30 specimens, 15 males and 15 females.
 
-The repository includes a lab protocol, a tps data file with 16 landmarks digitized, a classifiers file for MorphoJ, and 6 folders with the specimen images and individual tps files. 
+The repository includes a lab protocol, a tps data file with 16 landmarks digitized, a classifiers file for MorphoJ, two image files showing the results of the CVA, and 6 folders with the specimen images and individual tps files. 
 
 The included files are:
 
