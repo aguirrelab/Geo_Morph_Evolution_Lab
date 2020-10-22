@@ -9,9 +9,11 @@ The included files are:
 
 -0_stickleback_evol_lab_data.TPS - This is the input data file for MorphoJ in TPS format. It includes landmark data for 90 stickleback fish.
 
--grp_b.txt - This is the classifiers file indicating specimen group membership for MorphoJ. Speciemsn are divided into 6 groups, 3 populations X 2 sexes.
+-grp_b.txt - The classifiers file indicating specimen group membership for MorphoJ. Specimens are divided into 6 groups: 3 populations X 2 sexes.
 
--cva.png - This is an image file showing the results of the CVA with wireframe figures associated with shape variation along the two axes included.
+-cva2.png - An image file showing the results of the CVA.
+
+-CVs1_2.png - An image file showing the shape divergence associated with CVs 1 and 2.
 
 -There are also 6 folders with the specimen pictures and individual tps files. This allows you to have students collect their own data or take other measures. However, the input file listed above (0_stickleback_evol_lab_data.TPS) already has all the landmark data and the lab is currently designed for students to work with landmark data that has been collected for them. In class, I demonstrate how to create the input files using TPSUtility and digitize landmarks on the images using TPSDig2. 
 
